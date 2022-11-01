@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.practiceshraddha.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667039492|VJKaCpYQftWm
+www.practiceshraddha.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.practiceshraddha.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=as1
+
